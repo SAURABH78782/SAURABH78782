@@ -1,7 +1,7 @@
 ![logo](https://github.com/SAURABH78782/SAURABH78782/blob/main/COMPUTER%20SOFTWARE%20ENGINEER%20------------------------------------------------------------------------------------------------%20SAURABH%20KUMAR%20GUPTA-1.png)
 <h1 align="center">Hi 👋, I'm Saurabh Kumar Gupta</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-
+<p>A highly motivated civil engineer transitioning into software development with a focus on full-stack web development. Currently pursuing a rigorous software development course at Masai School, gaining expertise in front-end and back-end technologies such as JavaScript, React.js, Node.js, Express, and MongoDB. Possess a strong foundation in problem-solving, project management, and teamwork from a civil engineering background, now applying these skills to building efficient, scalable, and user-friendly web applications. Looking on contribute to dynamic development teams and deliver impactful software solutions.</p>
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh78782&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh78782" /> </p>
