@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python Language, DSA**
 
-- 👨‍💻 All of my projects are available at [https://kumarsaurabhportfolio.netlify.app](https://kumarsaurabhportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://kumarsaurabhportfolio.netlify.app](https://cool-gingersnap-cfffcf.netlify.app/)
 
 - 💬 Ask me about **HTML, Css, Java script, React, Mongodb, Python**
 
